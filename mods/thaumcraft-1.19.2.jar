@@ -1,0 +1,6 @@
+// This is a test mod file for Minecraft Launcher
+public class TestMod {
+    public static void main(String[] args) {
+        System.out.println("This is a dummy mod file");
+    }
+}
