@@ -1,0 +1,11 @@
+{
+    "Vanilla": [],
+    "Технические моды": [
+        "jei-1.19.2.jar",
+        "thermal-expansion-1.19.2.jar"
+    ],
+    "Магические моды": [
+        "thaumcraft-1.19.2.jar",
+        "botania-1.19.2.jar"
+    ]
+}
